@@ -1,5 +1,9 @@
 Bbbbbb
+<<<<<<< HEAD
 Bmazen
 C
 ate
+=======
+Mazen
+>>>>>>> 6ccb156d4d0a3b16e0f74c0119a3846fcd0b2b49
 iiiii
